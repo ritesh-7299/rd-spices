@@ -1,0 +1,11 @@
+﻿risk_id,risk,probability,impact,early_warning_signal,mitigation,owner,kpi_to_track
+R1,MRL exceedance for destination,Medium,High,Lab report trend drift,Destination-wise residue panel and approved supplier list,QA Lead,Lot pass rate
+R2,Salmonella or micro failure,Medium,High,Environmental or lot test alerts,Validated kill step and hold-release system,QA Lead,Micro pass rate
+R3,Mycotoxin exceedance,Medium,High,Moisture and storage deviations,Moisture control and lot-level mycotoxin testing,QA Lead,Mycotoxin pass rate
+R4,Label non-compliance,High,Medium-High,Frequent buyer artwork corrections,Market label checklist and legal review gate,Compliance,Label rejection count
+R5,Importer filing missing or late,Medium,High,Shipment docs not acknowledged by importer,No filing no loading gate with evidence capture,Export Ops,Border hold incidents
+R6,Enhanced border control hit,Medium,High,Market alerts and extra inspection notices,Weekly regulatory watch and preload docs,Compliance,Inspection hold days
+R7,Phyto or ISPM-15 gap,Low-Medium,High,Destination warning from broker,Destination requirement check at PO stage,Export Ops,Documentation exceptions
+R8,Document mismatch between shipment docs,Medium,High,Customs query or amendment request,Maker-checker review before dispatch,Export Ops,Doc error rate
+R9,Transit delay and quality drift,Medium,Medium-High,Route delay and humidity exposure,Container readiness checklist and moisture barriers,Logistics,Delayed shipment percentage
+R10,Payment default or claim dispute,Medium,High,Payment aging and repeated deductions,Payment ladder and insured/secured terms,Finance,DSO and overdue ratio

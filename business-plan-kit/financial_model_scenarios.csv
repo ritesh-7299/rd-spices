@@ -1,0 +1,4 @@
+Scenario,Annual_Leads,Response_Rate,Qualified_Rate,Sample_Request_Rate,Sample_Pass_Rate,PO_Win_Rate,Repeat_PO_Rate,Avg_PO_Value_USD,Gross_Margin_Pct,First_POs,Repeat_POs,Total_POs,Revenue_USD,Gross_Profit_USD
+Downside,2400,0.05,0.45,0.55,0.5,0.35,0.5,68000,0.18,=B2*C2*D2*E2*F2*G2,=K2*H2,=K2+L2,=M2*I2,=N2*J2
+Base,3000,0.07,0.5,0.6,0.55,0.4,0.6,80000,0.21,=B3*C3*D3*E3*F3*G3,=K3*H3,=K3+L3,=M3*I3,=N3*J3
+Upside,3600,0.09,0.55,0.65,0.6,0.45,0.65,88000,0.23,=B4*C4*D4*E4*F4*G4,=K4*H4,=K4+L4,=M4*I4,=N4*J4

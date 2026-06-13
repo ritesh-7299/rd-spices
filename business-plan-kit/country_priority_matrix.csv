@@ -1,0 +1,13 @@
+﻿priority_rank,country,priority_tier,demand_signal_2025_usd_m,growth_signal,entry_difficulty,recommended_entry_mode,focus_products,year1_target_accounts,notes
+1,USA,A,457.9,Mature scale market with large absolute demand,High,Direct importer + manufacturer,Cumin;Turmeric;Pepper;Chilli;Blends,8-10,Use strict FDA and importer compliance workflow
+2,UAE,A,159.3,Fast regional growth and re-export behavior,Medium,Distributor + re-export hub,Cumin;Cardamom;Turmeric;Blends,6-8,Fast cycle market for early momentum
+3,Saudi Arabia,A,286.2,Very large demand with steady import need,Medium-High,Distributor led with SFDA-ready pack,Cardamom;Chilli;Cumin;Blends,5-7,Strong premium and traditional spice demand
+4,UK,A,175.5,Positive recent growth for India-origin supply,Medium-High,Importer direct + specialty channels,Turmeric;Pepper;Cumin;Blends,5-7,Good trust fit for premium compliance suppliers
+5,Canada,A,NA,India-origin demand trending up,Medium,Importer and food manufacturer,Turmeric;Pepper;Blends;Cumin,4-6,Common-law process and clear documentation flows
+6,Germany,B,276.5,Large EU gateway with strong buyer quality standards,High,Importer direct via compliance-first strategy,Pepper;Turmeric;Blends;Cumin,3-4,Use this as EU beachhead after initial wins
+7,Australia,B,23.5,Smaller but premium and stable demand,Medium-High,Importer + ethnic and mainstream channels,Pepper;Turmeric;Blends,2-3,Useful higher-value market once SOPs are stable
+8,Malaysia,B,90.8,Attractive regional demand but short-term volatility,Medium,Distributor-led,Coriander;Cumin;Turmeric,2-3,Good secondary market after A-tier stabilization
+9,Netherlands,B,NA,EU transit and blending gateway behavior,High,Strategic EU importer,Pepper;Cumin;Blends,2-3,Can support wider EU expansion
+10,Singapore,C,18.2,Niche premium and regional hub demand,Medium,Small premium importers,Blends;Pepper;Cardamom,1-2,Operationally clean but limited volume
+11,South Africa,C,NA,Regional gateway potential,Medium,Distributor model,Pepper;Coriander;Cumin,1-2,Useful optional expansion in H2
+12,Japan,C,NA,Premium quality-focused market,High,Specialized importer,Pepper;Turmeric;Cardamom,1-2,Quality bar is high and cycle is slower

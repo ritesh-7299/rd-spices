@@ -1,0 +1,8 @@
+﻿market,must_have_registrations,label_and_limit_focus,border_or_import_filing,mandatory_docs,go_live_gate
+India export base,IEC;RCMC/CRES;FSSAI;GST route,FSMS and GMP/HACCP controls,Customs and shipping bill compliance,Invoice;Packing List;Shipping Bill;COA,Do not dispatch without legal stack complete
+USA,FDA facility readiness;importer FSVP alignment,Part 101 labeling;pesticide and micro control,FDA prior notice and importer filing,COA;spec sheet;shipping docs;facility records,No shipment without importer compliance confirmation
+EU,Importer legal compliance alignment,EU labeling;MRL;contaminants control,TRACES/CHED where applicable,COA;spec sheet;origin docs;shipping docs,Market-specific contaminant panel must pass
+UK,UK importer and food control readiness,GB labeling and residue limits,IPAFFS for relevant loads,COA;spec sheet;shipping docs,Pre-notification evidence required before dispatch
+GCC (UAE/Saudi focus),Country product registration and importer approval,Arabic-ready label and shelf-life rules,Country-specific pre-approval workflow,COA;origin docs;packing docs,No file no load policy
+Canada,SFC importer license alignment,CFIA label compliance and bilingual readiness,Import declaration with compliant importer,COA;spec sheet;shipping docs,Importer license and product eligibility confirmed
+Australia,BICON condition and importer workflow,FSANZ labeling and MRL attention,IFIS/BICON aligned filing,COA;spec sheet;shipping docs,Pre-shipment condition check mandatory

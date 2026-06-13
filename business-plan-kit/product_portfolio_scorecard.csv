@@ -1,0 +1,13 @@
+﻿product,phase,priority_level,demand_score_5,margin_score_5,differentiation_score_5,risk_score_5,target_markets,indicative_gross_margin_pct,core_specs,launch_note
+Cumin,Phase 1,High,5,4,4,3.5,USA;UAE;Saudi Arabia;UK;EU,10-26,Moisture;volatile oil;purity;residue;micro,Core anchor SKU for year 1
+Turmeric,Phase 1,High,5,4,5,4.5,USA;EU;UAE;Malaysia;UK,10-30,Curcumin;color;heavy metals;residue;micro,High upside with strict authenticity controls
+Black Pepper,Phase 1,High,4,4,4,4,USA;EU;UK;Canada;Japan,8-24,Piperine;density;moisture;micro,Good balance of demand and premium pricing
+Chilli (controlled),Phase 1,High,5,4,4,5,USA;EU;China;Saudi Arabia;Thailand,8-28,ASTA;heat profile;aflatoxin;illegal dye free;residue;micro,Launch only with robust QA system
+Spice Blends / Private Label,Phase 1,Very High,4,5,5,3,USA;UK;Germany;Saudi Arabia;Canada,20-40,Recipe consistency;allergens;label compliance;micro,Best margin expansion lever
+Coriander,Phase 2,Medium,3,3,3,3,Malaysia;Indonesia;USA;UK,8-22,Volatile oil;foreign matter;residue;micro,Add after phase 1 SOP stability
+Fennel,Phase 2,Medium,3,3,3,3,USA;GCC;EU,10-25,Volatile oil;color;sieve;residue,Useful support SKU for bundled offers
+Fenugreek,Phase 2,Medium,3,3,3,3.5,USA;UAE;Saudi Arabia;EU,9-24,Purity;bitterness profile;residue;micro,Include after buyer base matures
+Cardamom,Phase 2,Medium-High,3,5,5,4.5,UAE;Saudi Arabia;Kuwait;USA,12-32,Size grade;color;moisture;volatile oil,Premium SKU but volatile and grade-sensitive
+Cloves,Phase 2,Medium-Low,3,3,3,4,India;Indonesia;China;Saudi Arabia,9-26,Whole head percentage;eugenol;moisture;micro,Opportunistic SKU for selected buyers
+Cinnamon,Defer,Defer,4,3,4,4.5,USA;EU;Saudi Arabia,8-25,Species authenticity;coumarin;heavy metals,Defer until strong authenticity controls exist
+Bay Leaf,Defer,Defer,2,2,2,3,EU;MENA niche,8-22,Leaf size;color;breakage;foreign matter,Low strategic priority in year 1

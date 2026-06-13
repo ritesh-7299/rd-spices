@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+:root {
+  --color-forest: #103b2f;
+  --color-forest-soft: #1f5a48;
+  --color-gold: #c3a24d;
+  --color-gold-soft: #e6d39f;
+  --color-ivory: #f8f7f1;
+  --color-white: #ffffff;
+  --color-slate: #2f3632;
+  --color-mist: #e8ece7;
+  --shadow-elevated: 0 20px 45px -30px rgba(11, 43, 30, 0.45);
+}
+
+@theme inline {
+  --font-sans: var(--font-manrope);
+  --font-heading: var(--font-sora);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:target {
+  scroll-margin-top: 10.5rem;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at 12% -12%, rgba(230, 211, 159, 0.34), transparent 34%),
+    radial-gradient(circle at 88% -20%, rgba(31, 90, 72, 0.16), transparent 44%),
+    var(--color-ivory);
+  color: var(--color-slate);
+  font-family: var(--font-manrope), "Segoe UI", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-sora), "Segoe UI", sans-serif;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: inherit;
+}
+
+main {
+  width: 100%;
+}
+
+.section-shell {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 80rem;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 640px) {
+  .section-shell {
+    padding-inline: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-shell {
+    padding-inline: 2rem;
+  }
+}
+
+.card-panel {
+  border: 1px solid rgba(15, 59, 47, 0.08);
+  border-radius: 1rem;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(6px);
+  box-shadow: var(--shadow-elevated);
+}
+
+.soft-grid {
+  background-image:
+    linear-gradient(rgba(16, 59, 47, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(16, 59, 47, 0.06) 1px, transparent 1px);
+  background-size: 34px 34px;
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition:
+    opacity 0.65s ease,
+    transform 0.65s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (min-width: 768px) {
+  :target {
+    scroll-margin-top: 8.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  :target {
+    scroll-margin-top: 7.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .reveal,
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
